@@ -332,7 +332,7 @@ $redirect_url = "http://track.mimediabuy.com/c/10330/d?".$query;
 
 
 <div style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#3AAEE0;border-radius:8px;-webkit-border-radius:8px;-moz-border-radius:8px;width:auto; width:auto;;border-top:1px solid #3AAEE0;border-right:1px solid #3AAEE0;border-bottom:1px solid #3AAEE0;border-left:1px solid #3AAEE0;padding-top:5px;padding-bottom:5px;font-family:'Century Gothic',Arial, 'Helvetica Neue', Helvetica, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;"><span style="padding-left:20px;padding-right:20px;font-size:16px;display:inline-block;">
-<span style="font-size: 18px; line-height: 32px;"><b>Seulement 2&euro; - JE LE VEUX !</b></span>
+<span style="font-size: 18px; line-height: 32px;"><b><a href='<?php echo $redirect_url;?>' target=_self>Seulement 2&euro; - JE LE VEUX !</a></b></span>
 </span></div>
 
 
